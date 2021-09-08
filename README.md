@@ -1,3 +1,2 @@
-# Quick and simple search through Guargian
-
-It will give you 10 recent articls on your request
+# A quick and simple search through Guardian
+It will give you 10 recent articles at your request
